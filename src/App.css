@@ -1,0 +1,128 @@
+.App {
+  text-align: center;
+  color: #c06501;
+}
+
+.navbar{
+  display: inline-flex
+}
+
+.body1, .body2 , .body3{
+  margin-right: 50px;
+}
+
+.profilepicture{
+  width:200px;
+}
+
+.display{
+  display: inline-flex;
+  height: 20px;
+  width: 100%;
+  background-color:#fecc00;
+}
+
+
+
+
+/* mdl css test */
+img.article-image {
+  width: 100%;
+  max-height: 145.29px;
+}
+
+.portfolio-card .mdl-card__title {
+  padding-bottom: 0;
+}
+
+.portfolio-max-width {
+  max-width: 900px;
+  margin: auto;
+}
+
+.mdl-cell{
+  display: inline-block;
+}
+
+.mdl-card__supporting-text{
+  min-height: 122px;
+  margin-bottom: 10px;
+}
+
+.readbutton{
+  border-radius: 5px;
+  background-color: #fecc00;
+  color: #c06501;
+  border-color:#c06501;
+  font-weight: 600;
+  padding-top: 0;
+  margin-bottom: 20px;
+  font-size: 15px;
+  border-style: solid;
+  
+}
+
+.readbutton:active{
+  background-color:#c06501;
+  color: #fecc00;
+}
+
+.readbutton:hover{
+  cursor:pointer;
+}
+
+.container{
+  width: 90%;
+  padding: 10px;
+  border: 1px solid;
+  box-sizing: border-box;
+  margin-top: 6px;
+  margin-bottom: 16px;
+  margin-left: 30px;
+  margin-right: 30px;
+  resize: vertical;
+  border-radius: 10px;
+  border-color: #c06501;
+  padding: 20px;
+  border-width: 5px;
+  color: #c06501;
+  font-weight: 600;
+}
+
+.labels{
+  margin-top: 15px;
+  font-size: 12px;
+}
+
+input[type=text], input[type=email], textarea{
+  border-style: solid;
+  border-color:#c06501;
+  border-width:2px;
+}
+
+.form-img{
+  display: center;
+  width: 150px;
+}
+
+.aboutme-section{
+  width: 100%;
+  height: 50%;
+  font-size: 13px;
+}
+
+.aboutme-text > h1{
+  font-size: 20px;
+}
+
+.aboutme-text > h2{
+  font-size: 15px;
+}
+
+.aboutme-text > p{
+  font-size: 13px;
+  margin-bottom: 30px;
+}
+
+.aboutme-img{
+width: 452.8px;}
